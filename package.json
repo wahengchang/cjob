@@ -1,0 +1,22 @@
+{
+  "name": "cobj",
+  "version": "1.0.0",
+  "description": "The cjob(Accessing Object) npm package is a utility function that allows you to easily extract/retrieving data from complex JSON structures in Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahengchang/cjob.git"
+  },
+  "author": "wahengchang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahengchang/cjob/issues"
+  },
+  "homepage": "https://github.com/wahengchang/cjob#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
